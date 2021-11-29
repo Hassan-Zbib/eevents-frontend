@@ -1,0 +1,21 @@
+{
+  "name": "eevents-vue",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "fs-js": "^1.0.6",
+    "gridsome": "^0.7.0",
+    "moment": "^2.29.1",
+    "vuetify": "^2.5.7"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^3.0.0"
+  }
+}
